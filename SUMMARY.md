@@ -4,7 +4,7 @@
 
 ## Integrations
 
-* [Page 1](integrations/page-1.md)
+* [SCM](integrations/scm.md)
 
 ## Demos
 
